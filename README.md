@@ -10,8 +10,7 @@ This Bash script is designed to remove old revisions of snaps. It helps keep you
    ```bash
    git clone https://github.com/nischal-vadiraj/snap-clean.git
    ```
-   or
-
+   OR
    ```bash
    git clone git@github.com:nischal-vadiraj/snap-clean.git
    ```

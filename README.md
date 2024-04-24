@@ -6,8 +6,20 @@ This Bash script is designed to remove old revisions of snaps. It helps keep you
 
 **Usage Instructions:**
 1. Ensure all snaps are closed before proceeding.
-2. Open a terminal window.
-3. Navigate to the directory where the script is located using the `cd` command.
+2. Open a terminal window and clone the repo.
+   ```bash
+   git clone https://github.com/nischal-vadiraj/snap-clean.git
+   ```
+   or
+
+   ```bash
+   git clone git@github.com:nischal-vadiraj/snap-clean.git
+   ```
+3. Navigate to the directory where the script is located
+
+   ```bash
+   cd snap-clean/
+   ```
 4. Make the script executable if needed:
 
     ```bash

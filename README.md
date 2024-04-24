@@ -1,5 +1,6 @@
-### Snap Revision Cleanup Script
+### Cleanup Script
 
+Running out of space in your linux machine, you also you snap packages for in your distro? well try cleaning some old snap gook from your pc.    
 This Bash script is designed to remove old revisions of snaps. It helps keep your system tidy and reclaim your sweet ssd space by removing outdated versions of installed snap packages.
 
 **Usage Instructions:**
